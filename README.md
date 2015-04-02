@@ -11,3 +11,5 @@ La sortie dispo est plus propre au niveau du logo, je te laisse le psd si tu veu
 Tiens moi au courant ;-)
 
 Flo
+
+P.S : cool la nouvelle version du site de KNACSS !
