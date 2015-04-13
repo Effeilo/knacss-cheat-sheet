@@ -1,15 +1,7 @@
 # KNACSS v4 cheat sheet
 
-Salut Raphael, 
+Un mémo pour le framework CSS [KNACSS](http://knacss.com/) de Raphaël Goetter.
 
-Comme tu peux le voir, j'ai fait ça sous photoshop... Pas pratique pour la gestion du format svg.
+Cliquez sur l'image ci-dessous pour la télécharger :
 
-J'ai ajouté les mentions de knacss, je n'ai pas ajouté les miennes, je ne pense pas que se soit nécessaire.
-
-La sortie dispo est plus propre au niveau du logo, je te laisse le psd si tu veux tenter d'autres sorties.
-
-Tiens moi au courant ;-)
-
-Flo
-
-P.S : cool la nouvelle version du site de KNACSS !
+[![KNACSS v4 cheat sheet](http://effeiloweb.fr/knacss/knacss-v4-cheatsheet.jpg)](http://knacss.com/KNACSS-cheatsheet.pdf)
